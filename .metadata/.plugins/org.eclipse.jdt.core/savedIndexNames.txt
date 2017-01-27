@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+C:\Users\Hassan\Desktop\Quibble\Quibble\.metadata\.plugins\org.eclipse.jdt.core
